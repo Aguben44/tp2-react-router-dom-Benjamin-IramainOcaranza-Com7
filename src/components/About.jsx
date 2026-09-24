@@ -1,6 +1,6 @@
 import { useState } from 'react';
 
-export default function About() {
+ function About() {
   const [mostrarMas, setMostrarMas] = useState(false);
 
   return (
@@ -25,3 +25,5 @@ export default function About() {
     </section>
   );
 }
+
+export default About;

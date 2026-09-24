@@ -33,7 +33,7 @@ descripcion: 'sistema mejorado de llamadas usando asistente de inteligencia arti
       <About />
       <Skills habilidades={misHabilidades} />
       <Projects proyectos={misProyectos} />
-      <Footer contacto="tuemail@gmail.com" />
+      <Footer contacto="benja.a.ocaranza@gmail.com" />
     </main>
 
   )
