@@ -8,7 +8,7 @@ import Footer from './components/Footer';
 
 function App() {
  
-  const misHabilidades = ['C#', 'git', 'JavaScript'];
+  const misHabilidades = ['C#', 'git', 'JavaScript', 'React', 'HTML', 'CSS',];
 
   const misProyectos = [{
 id: 1,

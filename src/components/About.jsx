@@ -7,7 +7,7 @@ import { useState } from 'react';
     <section className="section">
       <h3>Sobre mí</h3>
       <p className="about-text">
-        Soy estudiante universitario apasionado por la tecnología, el desarrollo de software y el aprendizaje de nuevas herramientas.
+        Soy estudiante universitario que esta aprendiendo programación, actualmente me encuentro en el proceso de aprendizaje de JavaScript y React.
       </p>
 
       {mostrarMas && (

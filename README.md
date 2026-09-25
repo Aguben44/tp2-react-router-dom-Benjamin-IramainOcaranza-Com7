@@ -3,7 +3,7 @@
 **Universidad Tecnológica Nacional – Facultad Regional Tucumán**  
 **Materia:** Programación  
 **Estudiante:** Benjamín Iramain Caranza  
-**Comisión:** [Comisión a la que perteneces]  
+**Comisión:** 7  
 
 ---
 
