@@ -1,10 +1,7 @@
-function Footer({ contacto }) {
+function Footer() {
   return (
-    <footer className="footer">
-      <p>
-        Contacto: <a href={`mailto:${contacto}`}>{contacto}</a>
-      </p>
-      <small>© 2026 - Trabajo Práctico Nº 1 - UTN FRT</small>
+    <footer className="app-footer">
+      <p>© {new Date().getFullYear()} - Desarrollado para el TP2 de UTN FRT</p>
     </footer>
   );
 }

@@ -1,10 +1,9 @@
-function Header  ( {nombre, profesion} )  {
+function Header() {
   return (
-    <header className="header">
-    <h2 className= "header-title"> {nombre} </h2>
-    <p className = "header-role"> {profesion}</p>
+    <header className="app-header">
+      <h1>Mi Portfolio Profesional</h1>
     </header>
-  )
+  );
 }
 
-export default Header
+export default Header;

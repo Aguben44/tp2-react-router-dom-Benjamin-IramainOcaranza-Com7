@@ -4,13 +4,13 @@ function Skills({habilidades}) {
 return (
     <section className="section">
       <h3>Habilidades y Tecnologías</h3>
-      <ul className="skills-list">
-        {habilidades.map((skill, index) => (
-          <li key={index} className="skill-tag">
+      <div className="skills-grid">
+        {habilidades.map((skill) => (
+          <article key={skill} className="skill-card">
             {skill}
-          </li>
+          </article>
         ))}
-      </ul>
+      </div>
     </section>
   );
 
